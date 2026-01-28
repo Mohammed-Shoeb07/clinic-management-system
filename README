@@ -1,0 +1,31 @@
+A standalone Java-based Clinic Management System with a graphical user interface for managing patients and appointments.
+
+This project is distributed as a ZIP package containing a runnable fat JAR and an SQLite database file.
+
+- Login system  
+- Patient management (Add / View / Update / Delete)  
+- Appointment handling  
+- Persistent storage using SQLite  
+- Java Swing GUI  
+- Runnable fat JAR  
+
+---
+
+
+The application is packaged as a ZIP that contains:
+
+- `clinic-management-1.0.jar` (fat JAR)
+- SQLite `.db` file
+
+Both files **must stay in the same folder**.
+
+### Steps
+
+1. Download the ZIP from the `release` folder in this repository.
+
+2. Extract the ZIP.
+
+3. Open Command Prompt in the extracted folder:
+
+4. Run:
+java -jar clinic-management-1.0.jar
