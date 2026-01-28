@@ -29,3 +29,13 @@ Both files **must stay in the same folder**.
 
 4. Run:
 java -jar clinic-management-1.0.jar
+
+
+---
+
+Credentials: (only for demo)
+Login:
+username: admin
+password: admin123
+
+
